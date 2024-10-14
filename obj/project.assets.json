@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emell\\source\\repos\\CalculadoraTeste\\CalculadoraTeste.csproj",
+      "projectUniqueName": "C:\\Users\\emell\\Desktop\\CalculadoraTeste\\CalculadoraTeste.csproj",
       "projectName": "CalculadoraTeste",
-      "projectPath": "C:\\Users\\emell\\source\\repos\\CalculadoraTeste\\CalculadoraTeste.csproj",
+      "projectPath": "C:\\Users\\emell\\Desktop\\CalculadoraTeste\\CalculadoraTeste.csproj",
       "packagesPath": "C:\\Users\\emell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emell\\source\\repos\\CalculadoraTeste\\obj\\",
+      "outputPath": "C:\\Users\\emell\\Desktop\\CalculadoraTeste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
