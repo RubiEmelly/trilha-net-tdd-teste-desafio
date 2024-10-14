@@ -1,0 +1,14 @@
+C:\Users\emell\source\repos\CalculadoraTeste\bin\Debug\net6.0\CalculadoraTeste.exe
+C:\Users\emell\source\repos\CalculadoraTeste\bin\Debug\net6.0\CalculadoraTeste.deps.json
+C:\Users\emell\source\repos\CalculadoraTeste\bin\Debug\net6.0\CalculadoraTeste.runtimeconfig.json
+C:\Users\emell\source\repos\CalculadoraTeste\bin\Debug\net6.0\CalculadoraTeste.dll
+C:\Users\emell\source\repos\CalculadoraTeste\bin\Debug\net6.0\CalculadoraTeste.pdb
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\CalculadoraTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\CalculadoraTeste.AssemblyInfoInputs.cache
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\CalculadoraTeste.AssemblyInfo.cs
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\CalculadoraTeste.csproj.CoreCompileInputs.cache
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\CalculadoraTeste.dll
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\refint\CalculadoraTeste.dll
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\CalculadoraTeste.pdb
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\CalculadoraTeste.genruntimeconfig.cache
+C:\Users\emell\source\repos\CalculadoraTeste\obj\Debug\net6.0\ref\CalculadoraTeste.dll
